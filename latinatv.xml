@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MiEPG">
 
-  <channel id="latina">
+  <channel id="latina.pe">
     <display-name>Latina Television</display-name>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRt6EDPqSSI-2pEQVUCh5NYRNuLnnz1qGp4A&s"/>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRt6EDPqSSI-2pEQVUCh5NYRNuLnnz1qGp4A&amp;s"/>
   </channel>
 
   <programme start="20260203000000 -0500" stop="20260203013000 -0500" channel="latina.pe">
@@ -101,9 +101,10 @@
     <category>Telenovelas</category>
   </programme>
 
-  <programme start="20260203233000 -0500" stop="20260203000000 -0500" channel="latina.pe">
+  <programme start="20260203233000 -0500" stop="20260203240000 -0500" channel="latina.pe">
     <title>Contigo seleccion</title>
     <category>Deportes</category>
   </programme>  
 
 </tv>
+
