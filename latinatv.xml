@@ -8,14 +8,102 @@
 
   <programme start="20260203000000 -0500" stop="20260203013000 -0500" channel="latina.pe">
     <title>Nutrisa</title>
-    <desc>Espacio alquilado.</desc>
     <category>Espacio Alquilado</category>
   </programme>
 
   <programme start="20260203013000 -0500" stop="20260203014500 -0500" channel="latina.pe">
     <title>Telebrands</title>
-    <desc>Espacio alquilado.</desc>
     <category>Espacio Alquilado</category>
   </programme>
+
+  <programme start="20260203014500 -0500" stop="20260203023000 -0500" channel="latina.pe">
+    <title>Golden Boy</title>
+    <category>Series</category>
+  </programme>
+
+  <programme start="20260203023000 -0500" stop="20260203030000 -0500" channel="latina.pe">
+    <title>Doctor del pueblo</title>
+    <category>Series</category>
+  </programme>
+
+  <programme start="20260203030000 -0500" stop="20260203040000 -0500" channel="latina.pe">
+    <title>Clave 1, Médicos en alerta</title>
+    <category>Series</category>
+  </programme>
+
+  <programme start="20260203040000 -0500" stop="20260203050000 -0500" channel="latina.pe">
+    <title>Buenas nuevas, malas nuevas</title>
+    <category>Noticias</category>
+  </programme>
+
+  <programme start="20260203050000 -0500" stop="20260203060000 -0500" channel="latina.pe">
+    <title>Latina Noticias, Despierta con Matinal</title>
+    <category>Noticias</category>
+  </programme>
+
+  <programme start="20260203060000 -0500" stop="20260203070000 -0500" channel="latina.pe">
+    <title>Latina Noticias Matinal Nacional</title>
+    <category>Noticias</category>
+  </programme>
+
+  <programme start="20260203070000 -0500" stop="20260203090000 -0500" channel="latina.pe">
+    <title>Latina Noticias Matinal</title>
+    <category>Noticias</category>
+  </programme>
+
+  <programme start="20260203090000 -0500" stop="20260203120000 -0500" channel="latina.pe">
+    <title>Arriba mi gente</title>
+    <category>Variedades</category>
+  </programme>
+
+  <programme start="20260203120000 -0500" stop="20260203150000 -0500" channel="latina.pe">
+    <title>Latina Noticias Mediodia</title>
+    <category>Noticias</category>
+  </programme>
+
+  <programme start="20260203150000 -0500" stop="20260203160000 -0500" channel="latina.pe">
+    <title>Cuando los angeles caen</title>
+    <category>Telenovelas</category>
+  </programme>
+
+  <programme start="20260203160000 -0500" stop="20260203170000 -0500" channel="latina.pe">
+    <title>Perdidos de amor</title>
+    <category>Telenovelas</category>
+  </programme>  
+
+  <programme start="20260203170000 -0500" stop="20260203180000 -0500" channel="latina.pe">
+    <title>Hasta que la plata nos separe</title>
+    <category>Telenovelas</category>
+  </programme>
+
+  <programme start="20260203180000 -0500" stop="20260203190000 -0500" channel="latina.pe">
+    <title>Genesis</title>
+    <category>Telenovelas</category>
+  </programme>
+
+  <programme start="20260203190000 -0500" stop="20260203200000 -0500" channel="latina.pe">
+    <title>Latina Noticias Central</title>
+    <category>Noticias</category>
+  </programme>
+
+  <programme start="20260203200000 -0500" stop="20260203210000 -0500" channel="latina.pe">
+    <title>Eres mi bien</title>
+    <category>Telenovelas</category>
+  </programme>
+
+  <programme start="20260203210000 -0500" stop="20260203224500 -0500" channel="latina.pe">
+    <title>Yo soy</title>
+    <category>Concurso</category>
+  </programme>
+
+  <programme start="20260203224500 -0500" stop="20260203233000 -0500" channel="latina.pe">
+    <title>Leyla</title>
+    <category>Telenovelas</category>
+  </programme>
+
+  <programme start="20260203233000 -0500" stop="20260203000000 -0500" channel="latina.pe">
+    <title>Contigo seleccion</title>
+    <category>Deportes</category>
+  </programme>  
 
 </tv>
